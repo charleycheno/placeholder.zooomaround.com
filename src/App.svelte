@@ -8,4 +8,3 @@
   <p class="text-center text-xl font-bold text-stone-100">Binnenkort beschikbaar</p>
   <p class="text-center text-stone-700">Zooom Around Late 2025</p>
 </main>
-
