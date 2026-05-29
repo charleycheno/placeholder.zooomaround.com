@@ -6,5 +6,5 @@
   <img class="h-24 w-auto mb-4" src="/images/logo.png" alt="Logo">
   <h1 class="text-center text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-green-700 to-green-500">ZooomAround.com</h1>
   <p class="text-center text-xl font-bold text-stone-100">Binnenkort beschikbaar</p>
-  <p class="text-center text-stone-700">Zooom Around Late 2025</p>
+  <p class="text-center text-stone-700">Zooom Around Summer 2026</p>
 </main>
